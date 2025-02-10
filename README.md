@@ -1,7 +1,7 @@
 # ColumnClassifier
 
 ## Descripción
-ColumnClassifier es una herramienta poderosa que utiliza inteligencia artificial para realizar uniones inteligentes entre columnas de datos. Es ideal para reconciliar columnas de tablas, incluso si contienen errores ortográficos, espacios o formatos inconsistentes.
+ColumnClassifier es una herramienta poderosa que utiliza inteligencia artificial para clasificar columnas de datos según un prompt predefinido. Por ejemplo, puede analizar comentarios para determinar si son positivos, negativos o neutrales, y además identificar el tópico al que se refieren (por ejemplo, si hablan acerca de la clase, el docente, la plataforma, etc.). Esta herramienta es ideal para organizar y analizar información de manera precisa, incluso cuando los datos presentan inconsistencias como errores ortográficos, espacios o formatos variados.
 
 ---
 
@@ -54,4 +54,3 @@ Si encuentras problemas durante la instalación o ejecución, asegúrate de:
 ---
 
 ¡Gracias por usar ColumnClassifier!
-
