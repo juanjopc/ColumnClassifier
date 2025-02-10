@@ -169,3 +169,5 @@ if __name__ == "__main__":
         print(f"[OK] Se generó el archivo de resultados: {output_file}")
     except Exception as e:
         print(f"[ERROR] Ocurrió un error inesperado: {e}")
+
+input("Presiona Enter para cerrar...")
